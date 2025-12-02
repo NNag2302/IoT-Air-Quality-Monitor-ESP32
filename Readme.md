@@ -20,7 +20,7 @@ This project uses **ESP32**, **MQTT (EMQX broker)**, **Python (Colab)**, and **M
 ## 🖼️ System Architecture
 
 <p align="center">
-  <img src="images/system_architecture.png" width="650">
+  <img src="Images/Block_Diagram.png" width="650">
 </p>
 
 ---
@@ -37,7 +37,7 @@ This project uses **ESP32**, **MQTT (EMQX broker)**, **Python (Colab)**, and **M
 - Breadboard
 
 <p align="center">
-  <img src="images/wiring_diagram.png" width="500">
+  <img src="Images/Working_Project.jpg" width="500">
 </p>
 
 ---
